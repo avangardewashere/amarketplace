@@ -10,6 +10,8 @@ const Hero = () => {
         <h2 className="text-[60px] flex-none"> Find your dream things </h2>
      
       <Search/>
+
+      <span className="text-[12rem] mt-20 text-[#cc5500] font-semibold"> BUY NOW</span>
  </div>
 
     </div>
